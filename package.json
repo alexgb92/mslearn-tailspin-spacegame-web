@@ -6,5 +6,28 @@
     "gulp-uglify": "3.0.0",
     "node-sass": "^4.14.1",
     "rimraf": "2.6.1"
+  },
+  "name": "mslearn-tailspin-spacegame-web",
+  "description": "This project welcomes contributions and suggestions.  Most contributions require you to agree to a\r Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us\r the rights to use your contribution. For details, visit https://cla.microsoft.com.",
+  "version": "1.0.0",
+  "main": "scriptTeste.js",
+  "scripts": {
+    "test": "npx mocha — reporter xunit > result.xml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgb92/mslearn-tailspin-spacegame-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexgb92/mslearn-tailspin-spacegame-web/issues"
+  },
+  "homepage": "https://github.com/alexgb92/mslearn-tailspin-spacegame-web#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "global": "^4.4.0",
+    "mocha": "^8.3.0",
+    "selenium-webdriver": "^4.0.0-alpha.8"
   }
 }
